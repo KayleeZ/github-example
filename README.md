@@ -14,6 +14,3 @@ This is Kaylee's version
 Try edit something on this README file.
 
 [This is me.](https://github.com/KayleeZ)
-
-1. a
-2. b
