@@ -12,12 +12,8 @@ This is Kaylee's version
 ========================
 
 Try edit something on this README file.
+
 [This is me.](https://github.com/KayleeZ)
 
-- a
-- b
-- c
-
-1234567
-=======
-
+1. a
+2. b
